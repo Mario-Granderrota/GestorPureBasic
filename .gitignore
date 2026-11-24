@@ -1,0 +1,21 @@
+# Ejecutables generados por compilar.sh
+/gestor-purebasic
+/compilar-pb
+# Archivos intermedios y cachés
+purebasic.c
+purebasic.asm
+purebasic.o
+*.py[cod]
+__pycache__/
+*.log
+# Paquetes y SDK locales: no redistribuir PureBasic
+*.tar.gz
+*.tgz
+*.tar
+*.zip
+/purebasic/
+/sdk/
+# Resultados locales de compilación y pruebas
+/build/
+/dist/
+/pruebas/salida/
