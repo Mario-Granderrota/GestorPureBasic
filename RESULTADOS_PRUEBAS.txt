@@ -1,0 +1,1111 @@
+=== REGRESIÓN VERSIÓN 0 (núcleo y lanzador) ===
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2536 lines processed.
+Creating executable "/tmp/pbzero/regresion/ciclo-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK rechaza ELF truncado
+OK interpreta la identidad de 6.02 LTS completa
+OK no instala una gratuita como actualización completa sin elección expresa
+OK extrae y comprueba compilador oficial
+OK registro JSON completo
+OK identifica versión y edición
+OK manifiesto coincide con el contenido
+OK una limitación real bloquea la activación normal
+OK la aceptación expresa permite continuar con la versión conservada
+OK selección activa correcta
+OK impide retirar la versión activa
+OK retira sin destruir
+OK lee registro de retirada
+OK carpeta retirada recuperable
+OK restaura versión retirada
+OK lee versión restaurada
+OK activa versión restaurada
+OK detecta archivos posteriores y los conserva
+RESULTADO: 18 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2556 lines processed.
+Creating executable "/tmp/pbzero/regresion/fiabilidad-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK instala una versión real para los ensayos
+OK activa una base comprobada
+OK obtiene el registro de base
+OK prepara instalación anterior externa
+OK registra instalación externa sin moverla
+OK identifica la instalación existente
+OK un fallo al publicar la selección nunca anuncia éxito
+OK mantiene activa la versión anterior tras el fallo
+OK recupera el diario cuando vuelve a poder escribir
+OK restaura también el historial de selección
+OK conserva el acceso anterior completo
+OK persiste un diario antes de cambiar la selección
+OK simula publicación antes de una interrupción
+RECUPERADO
+OK otra instancia recupera la selección anterior
+OK activa la instalación externa tras comprobarla
+OK el fallo conserva también una selección anterior externa
+OK recupera el diario con una instalación externa anterior
+OK vuelve a la instalación gestionada
+OK conserva la instalación externa si aparecen archivos del usuario
+OK la revisión expresa permite registrar cambios legítimos sin borrar datos
+OK retira explícitamente la instalación antigua externa
+OK libera la ubicación original mediante traslado recuperable
+OK restaura una instalación externa en su ruta original
+OK recupera los ejecutables y el contenido del usuario revisado
+OK prepara una retirada para el borrado explícito
+OK borra solo la versión retirada seleccionada
+OK conserva operativa la otra versión
+OK rechaza identificadores y raíces peligrosos
+OK desactiva los accesos propios sin borrar las versiones
+OK permite desinstalar también la última versión conservando el contenido hasta retirarlo
+RESULTADO: 30 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2531 lines processed.
+Creating executable "/tmp/pbzero/regresion/seguridad-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK rechaza ascenso_interno.tar
+OK rechaza fifo.tar
+OK rechaza crc_invalido.tgz
+OK rechaza duro.tar
+OK acepta gnu_largo.tar
+OK rechaza simbolico.tar
+OK rechaza ascenso.tar
+OK rechaza truncado.tar
+OK rechaza enorme.tar
+OK rechaza control.tar
+OK rechaza duplicado.tar
+OK rechaza absoluta.tar
+OK acepta valido.tar
+OK rechaza barra_inversa.tar
+OK rechaza checksum_invalido.tar
+OK recorre todos los paquetes de seguridad
+OK rechaza enlaces al copiar
+OK rechaza archivos especiales sin bloquearse
+OK URI conserva más y porcentaje
+OK rechaza ubicaciones remotas
+OK rechaza ejecutables ausentes
+OK ningún traversal escribe fuera de su destino
+OK bloquea rutas no confinadas
+RESULTADO: 23 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2608 lines processed.
+Creating executable "/tmp/pbzero/regresion/escritorio-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK encuentra Escritorio cuando no hay configuracion XDG
+OK resuelve el escritorio XDG con HOME y espacios
+OK resuelve HOME con llaves sin interpretar shell
+OK respeta el escritorio deshabilitado sin escribir en HOME
+OK rechaza el escritorio fuera del perfil
+OK no ejecuta sintaxis de shell de la configuracion
+OK interpreta el ejecutable absoluto entre comillas y con espacios
+OK resuelve un ejecutable relativo a Path
+OK rechaza claves Exec duplicadas
+OK no interpreta envoltorios de shell como accesos simples
+OK detecta la instalacion desde el comando del escritorio
+OK registra una carpeta de nombre arbitrario sin ejecutar su compilador
+OK actualiza menu y escritorio de una instalacion existente sin compilar
+OK conserva un acceso ajeno aunque se llame PureBasic.desktop
+OK mantiene un alias oculto para conservar asociaciones sin duplicar el menu
+OK sustituye el acceso reconocido conservando su nombre de archivo
+OK utiliza exactamente el logo oficial de la version seleccionada
+OK fija el directorio de trabajo de la instalacion
+OK el acceso usa el lanzador estable y acepta archivos
+OK otorga permiso de ejecucion al acceso del escritorio
+OK la copia permanente conserva el contenido del acceso original
+OK repetir la sincronizacion actualiza el mismo acceso
+OK no crea un segundo acceso si ya reconoce uno
+OK un fallo de escritura del escritorio nunca anuncia exito
+OK recupera el diario del acceso al poder escribir otra vez
+OK restaura contenido y permisos originales junto con el menu
+OK incluye escritorio y menu en el mismo diario
+OK otra instancia recupera conjuntamente el escritorio y el menu
+OK restablece el acceso gestionado despues de la recuperacion
+OK desactiva los accesos gestionados de ambas ubicaciones
+OK elimina solo sus accesos y conserva los ajenos
+OK crea un nuevo acceso si ya no existe ninguno reconocido
+OK elige otro nombre sin pisar el archivo ajeno ocupado
+OK registra otra raiz para verificar rutas relativas a la seleccion
+OK sincroniza la segunda seleccion sin recompilar
+OK icono y directorio siguen la version nueva
+OK el comando estable no queda ligado a la carpeta antigua
+OK volver a otra seleccion actualiza de nuevo las rutas
+OK solo acepta un logo PNG local presente en la raiz
+OK conserva las comillas literales mediante el escape correcto
+OK el diario solo admite las ubicaciones de integracion actuales
+RESULTADO: 41 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+4 lines processed.
+Creating executable "/tmp/pbzero/regresion/proyecto con espacios-y-acentos-á/programa".
+
+- Feel the ..PuRe.. Power -
+
+
+PROYECTO_OK
+
+OK lanzador nativo: fuente relativa, espacios y acentos; salida exacta PROYECTO_OK
+
+GLOBAL: 113 comprobaciones correctas; 0 fallidas.
+
+=== COMPROBACIONES GRÁFICAS VERSIÓN 0 ===
+Arranque, tamaños 880x570 y 800x550, actividad, copia y Escape en comparación y retirada: comprobados.
+
+=== REGRESIÓN 2.5.2 (repetida con fuentes definitivas) ===
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2536 lines processed.
+Creating executable "/tmp/pbui/regresion/ciclo-test".
+
+- Feel the ..PuRe.. Power -
+
+OK rechaza ELF truncado
+OK interpreta la identidad de 6.02 LTS completa
+OK no instala una gratuita como actualización completa sin elección expresa
+OK extrae y comprueba compilador oficial
+OK registro JSON completo
+OK identifica versión y edición
+OK manifiesto coincide con el contenido
+OK una limitación real bloquea la activación normal
+OK la aceptación expresa permite continuar con la versión conservada
+OK selección activa correcta
+OK impide retirar la versión activa
+OK retira sin destruir
+OK lee registro de retirada
+OK carpeta retirada recuperable
+OK restaura versión retirada
+OK lee versión restaurada
+OK activa versión restaurada
+OK detecta archivos posteriores y los conserva
+RESULTADO: 18 correctas, 0 fallidas
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2556 lines processed.
+Creating executable "/tmp/pbui/regresion/fiabilidad-test".
+
+- Feel the ..PuRe.. Power -
+
+OK instala una versión real para los ensayos
+OK activa una base comprobada
+OK obtiene el registro de base
+OK prepara instalación anterior externa
+OK registra instalación externa sin moverla
+OK identifica la instalación existente
+OK un fallo al publicar la selección nunca anuncia éxito
+OK mantiene activa la versión anterior tras el fallo
+OK recupera el diario cuando vuelve a poder escribir
+OK restaura también el historial de selección
+OK conserva el acceso anterior completo
+OK persiste un diario antes de cambiar la selección
+OK simula publicación antes de una interrupción
+RECUPERADO
+OK otra instancia recupera la selección anterior
+OK activa la instalación externa tras comprobarla
+OK el fallo conserva también una selección anterior externa
+OK recupera el diario con una instalación externa anterior
+OK vuelve a la instalación gestionada
+OK conserva la instalación externa si aparecen archivos del usuario
+OK la revisión expresa permite registrar cambios legítimos sin borrar datos
+OK retira explícitamente la instalación antigua externa
+OK libera la ubicación original mediante traslado recuperable
+OK restaura una instalación externa en su ruta original
+OK recupera los ejecutables y el contenido del usuario revisado
+OK prepara una retirada para el borrado explícito
+OK borra solo la versión retirada seleccionada
+OK conserva operativa la otra versión
+OK rechaza identificadores y raíces peligrosos
+OK desactiva los accesos propios sin borrar las versiones
+OK permite desinstalar también la última versión conservando el contenido hasta retirarlo
+RESULTADO: 30 correctas, 0 fallidas
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2531 lines processed.
+Creating executable "/tmp/pbui/regresion/seguridad-test".
+
+- Feel the ..PuRe.. Power -
+
+OK rechaza ascenso_interno.tar
+OK rechaza fifo.tar
+OK rechaza crc_invalido.tgz
+OK rechaza duro.tar
+OK acepta gnu_largo.tar
+OK rechaza simbolico.tar
+OK rechaza ascenso.tar
+OK rechaza truncado.tar
+OK rechaza enorme.tar
+OK rechaza control.tar
+OK rechaza duplicado.tar
+OK rechaza absoluta.tar
+OK acepta valido.tar
+OK rechaza barra_inversa.tar
+OK rechaza checksum_invalido.tar
+OK recorre todos los paquetes de seguridad
+OK rechaza enlaces al copiar
+OK rechaza archivos especiales sin bloquearse
+OK URI conserva más y porcentaje
+OK rechaza ubicaciones remotas
+OK rechaza ejecutables ausentes
+OK ningún traversal escribe fuera de su destino
+OK bloquea rutas no confinadas
+RESULTADO: 23 correctas, 0 fallidas
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2608 lines processed.
+Creating executable "/tmp/pbui/regresion/escritorio-test".
+
+- Feel the ..PuRe.. Power -
+
+OK encuentra Escritorio cuando no hay configuracion XDG
+OK resuelve el escritorio XDG con HOME y espacios
+OK resuelve HOME con llaves sin interpretar shell
+OK respeta el escritorio deshabilitado sin escribir en HOME
+OK rechaza el escritorio fuera del perfil
+OK no ejecuta sintaxis de shell de la configuracion
+OK interpreta el ejecutable absoluto entre comillas y con espacios
+OK resuelve un ejecutable relativo a Path
+OK rechaza claves Exec duplicadas
+OK no interpreta envoltorios de shell como accesos simples
+OK detecta la instalacion desde el comando del escritorio
+OK registra una carpeta de nombre arbitrario sin ejecutar su compilador
+OK actualiza menu y escritorio de una instalacion existente sin compilar
+OK conserva un acceso ajeno aunque se llame PureBasic.desktop
+OK mantiene un alias oculto para conservar asociaciones sin duplicar el menu
+OK sustituye el acceso reconocido conservando su nombre de archivo
+OK utiliza exactamente el logo oficial de la version seleccionada
+OK fija el directorio de trabajo de la instalacion
+OK el acceso usa el lanzador estable y acepta archivos
+OK otorga permiso de ejecucion al acceso del escritorio
+OK la copia permanente conserva el contenido del acceso original
+OK repetir la sincronizacion actualiza el mismo acceso
+OK no crea un segundo acceso si ya reconoce uno
+OK un fallo de escritura del escritorio nunca anuncia exito
+OK recupera el diario del acceso al poder escribir otra vez
+OK restaura contenido y permisos originales junto con el menu
+OK incluye escritorio y menu en el mismo diario
+OK otra instancia recupera conjuntamente el escritorio y el menu
+OK restablece el acceso gestionado despues de la recuperacion
+OK desactiva los accesos gestionados de ambas ubicaciones
+OK elimina solo sus accesos y conserva los ajenos
+OK crea un nuevo acceso si ya no existe ninguno reconocido
+OK elige otro nombre sin pisar el archivo ajeno ocupado
+OK registra otra raiz para verificar rutas relativas a la seleccion
+OK sincroniza la segunda seleccion sin recompilar
+OK icono y directorio siguen la version nueva
+OK el comando estable no queda ligado a la carpeta antigua
+OK volver a otra seleccion actualiza de nuevo las rutas
+OK solo acepta un logo PNG local presente en la raiz
+OK conserva las comillas literales mediante el escape correcto
+OK el diario solo admite las ubicaciones de integracion actuales
+RESULTADO: 41 correctas, 0 fallidas
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+4 lines processed.
+Creating executable "/tmp/pbui/regresion/proyecto con espacios-y-acentos-á/programa".
+
+- Feel the ..PuRe.. Power -
+
+PROYECTO_OK
+GLOBAL: 113 comprobaciones correctas; 0 fallidas.
+
+Se conservan los datos aislados en: /tmp/pbui/regresion
+
+=== RESULTADOS HISTÓRICOS 2.5.1 (no repetidos íntegramente en 2.5.2) ===
+Gestor PureBasic 2.5.1 — 313 comprobaciones correctas, 0 fallidas; 24 adicionales de compatibilidad gráfica correctas.
+
+=== COMPILACIÓN FINAL ===
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2915 lines processed.
+Creating executable "/tmp/pbaudit/project/GestorPureBasic/gestor-purebasic".
+
+- Feel the ..PuRe.. Power -
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: compatibilidad.pbi
+545 lines processed.
+Creating executable "/tmp/pbaudit/project/GestorPureBasic/compilar-pb".
+
+- Feel the ..PuRe.. Power -
+
+Compilados: gestor-purebasic y compilar-pb
+
+
+=== REGRESIÓN DEL NÚCLEO ===
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2536 lines processed.
+Creating executable "/tmp/pbaudit/regresion-final/ciclo-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK rechaza ELF truncado
+OK interpreta la identidad de 6.02 LTS completa
+OK no instala una gratuita como actualización completa sin elección expresa
+OK extrae y comprueba compilador oficial
+OK registro JSON completo
+OK identifica versión y edición
+OK manifiesto coincide con el contenido
+OK una limitación real bloquea la activación normal
+OK la aceptación expresa permite continuar con la versión conservada
+OK selección activa correcta
+OK impide retirar la versión activa
+OK retira sin destruir
+OK lee registro de retirada
+OK carpeta retirada recuperable
+OK restaura versión retirada
+OK lee versión restaurada
+OK activa versión restaurada
+OK detecta archivos posteriores y los conserva
+RESULTADO: 18 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2556 lines processed.
+Creating executable "/tmp/pbaudit/regresion-final/fiabilidad-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK instala una versión real para los ensayos
+OK activa una base comprobada
+OK obtiene el registro de base
+OK prepara instalación anterior externa
+OK registra instalación externa sin moverla
+OK identifica la instalación existente
+OK un fallo al publicar la selección nunca anuncia éxito
+OK mantiene activa la versión anterior tras el fallo
+OK recupera el diario cuando vuelve a poder escribir
+OK restaura también el historial de selección
+OK conserva el acceso anterior completo
+OK persiste un diario antes de cambiar la selección
+OK simula publicación antes de una interrupción
+RECUPERADO
+OK otra instancia recupera la selección anterior
+OK activa la instalación externa tras comprobarla
+OK el fallo conserva también una selección anterior externa
+OK recupera el diario con una instalación externa anterior
+OK vuelve a la instalación gestionada
+OK conserva la instalación externa si aparecen archivos del usuario
+OK la revisión expresa permite registrar cambios legítimos sin borrar datos
+OK retira explícitamente la instalación antigua externa
+OK libera la ubicación original mediante traslado recuperable
+OK restaura una instalación externa en su ruta original
+OK recupera los ejecutables y el contenido del usuario revisado
+OK prepara una retirada para el borrado explícito
+OK borra solo la versión retirada seleccionada
+OK conserva operativa la otra versión
+OK rechaza identificadores y raíces peligrosos
+OK desactiva los accesos propios sin borrar las versiones
+OK permite desinstalar también la última versión conservando el contenido hasta retirarlo
+RESULTADO: 30 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2531 lines processed.
+Creating executable "/tmp/pbaudit/regresion-final/seguridad-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK rechaza ascenso_interno.tar
+OK rechaza fifo.tar
+OK rechaza crc_invalido.tgz
+OK rechaza duro.tar
+OK acepta gnu_largo.tar
+OK rechaza simbolico.tar
+OK rechaza ascenso.tar
+OK rechaza truncado.tar
+OK rechaza enorme.tar
+OK rechaza control.tar
+OK rechaza duplicado.tar
+OK rechaza absoluta.tar
+OK acepta valido.tar
+OK rechaza barra_inversa.tar
+OK rechaza checksum_invalido.tar
+OK recorre todos los paquetes de seguridad
+OK rechaza enlaces al copiar
+OK rechaza archivos especiales sin bloquearse
+OK URI conserva más y porcentaje
+OK rechaza ubicaciones remotas
+OK rechaza ejecutables ausentes
+OK ningún traversal escribe fuera de su destino
+OK bloquea rutas no confinadas
+RESULTADO: 23 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+Including source: ../src/nucleo.pbi
+Including source: base.pbi
+Including source: texto_seguro.pbi
+Including source: rutas.pbi
+Including source: procesos.pbi
+Including source: repositorio.pbi
+Including source: politica.pbi
+Including source: archivos.pbi
+Including source: arbol.pbi
+Including source: identidad.pbi
+Including source: versiones.pbi
+Including source: compatibilidad.pbi
+Including source: verificacion.pbi
+Including source: escritorio.pbi
+Including source: transacciones.pbi
+Including source: movimientos.pbi
+Including source: ejecutable.pbi
+Including source: operaciones.pbi
+Including source: accesos_individuales.pbi
+Including source: mantenimiento.pbi
+Including source: instalador.pbi
+2608 lines processed.
+Creating executable "/tmp/pbaudit/regresion-final/escritorio-test".
+
+- Feel the ..PuRe.. Power -
+
+
+OK encuentra Escritorio cuando no hay configuracion XDG
+OK resuelve el escritorio XDG con HOME y espacios
+OK resuelve HOME con llaves sin interpretar shell
+OK respeta el escritorio deshabilitado sin escribir en HOME
+OK rechaza el escritorio fuera del perfil
+OK no ejecuta sintaxis de shell de la configuracion
+OK interpreta el ejecutable absoluto entre comillas y con espacios
+OK resuelve un ejecutable relativo a Path
+OK rechaza claves Exec duplicadas
+OK no interpreta envoltorios de shell como accesos simples
+OK detecta la instalacion desde el comando del escritorio
+OK registra una carpeta de nombre arbitrario sin ejecutar su compilador
+OK actualiza menu y escritorio de una instalacion existente sin compilar
+OK conserva un acceso ajeno aunque se llame PureBasic.desktop
+OK mantiene un alias oculto para conservar asociaciones sin duplicar el menu
+OK sustituye el acceso reconocido conservando su nombre de archivo
+OK utiliza exactamente el logo oficial de la version seleccionada
+OK fija el directorio de trabajo de la instalacion
+OK el acceso usa el lanzador estable y acepta archivos
+OK otorga permiso de ejecucion al acceso del escritorio
+OK la copia permanente conserva el contenido del acceso original
+OK repetir la sincronizacion actualiza el mismo acceso
+OK no crea un segundo acceso si ya reconoce uno
+OK un fallo de escritura del escritorio nunca anuncia exito
+OK recupera el diario del acceso al poder escribir otra vez
+OK restaura contenido y permisos originales junto con el menu
+OK incluye escritorio y menu en el mismo diario
+OK otra instancia recupera conjuntamente el escritorio y el menu
+OK restablece el acceso gestionado despues de la recuperacion
+OK desactiva los accesos gestionados de ambas ubicaciones
+OK elimina solo sus accesos y conserva los ajenos
+OK crea un nuevo acceso si ya no existe ninguno reconocido
+OK elige otro nombre sin pisar el archivo ajeno ocupado
+OK registra otra raiz para verificar rutas relativas a la seleccion
+OK sincroniza la segunda seleccion sin recompilar
+OK icono y directorio siguen la version nueva
+OK el comando estable no queda ligado a la carpeta antigua
+OK volver a otra seleccion actualiza de nuevo las rutas
+OK solo acepta un logo PNG local presente en la raiz
+OK conserva las comillas literales mediante el escape correcto
+OK el diario solo admite las ubicaciones de integracion actuales
+RESULTADO: 41 correctas, 0 fallidas
+
+PureBasic 6.41 - C Backend (Linux - x64)
+Loading external modules...
+Starting compilation...
+4 lines processed.
+Creating executable "/tmp/pbaudit/regresion-final/proyecto con espacios-y-acentos-á/programa".
+
+- Feel the ..PuRe.. Power -
+
+
+PROYECTO_OK
+
+OK lanzador nativo: fuente relativa, espacios y acentos; salida exacta PROYECTO_OK
+
+GLOBAL: 113 comprobaciones correctas; 0 fallidas.
+
+
+=== BATERÍAS AMPLIADAS ===
+OK compara componentes numericos, no cadenas
+OK alpha anterior a beta
+OK RC anterior a estable
+OK LTS y componente cero no falsean precedencia
+OK ordena numeros de beta
+OK ambos correctos
+OK prefiere ASM pero detecta limitacion en C
+OK backend presente danado bloquea sustitucion
+OK backend no incluido no causa falso fallo
+OK ningun backend utilizable
+OK politica acepta verificacion completa
+OK rechaza validacion no acreditada
+OK rechaza limitacion aunque figure completa
+OK consola sola no autoriza produccion
+OK modo de prueba no acepta validacion vacia
+OK proteccion de licencia
+OK ejecutor real salida uno
+OK ejecutor real salida dos
+OK resultados no se sobreescriben
+OK codigo de salida aislado
+OK tiempo limite de proceso
+OK puerto simulado diagnostica fallo de enlace
+OK testigo exacto con salida cero
+OK rechaza testigo que solo contiene subcadena
+OK rechaza testigo correcto con salida no cero
+OK no reutiliza area de prueba anterior
+OK diario previo a publicacion
+OK simula interrupcion despues del traslado
+OK recupera publicacion interrumpida
+OK recuperacion no pierde contenido ni crea registro fantasma
+OK simula error al escribir registro de publicacion
+OK revierte publicacion fallida y retira manifiesto
+OK publicacion central correcta
+OK publicacion deja registro y manifiesto coherentes
+OK commit elimina diario
+OK rename sin reemplazo conserva destino existente
+RESULTADO: 36 correctas, 0 fallidas
+
+OK 6.41 superior a 6.02
+OK 6.02 anterior a 6.41
+OK misma version
+OK estable superior a beta
+OK beta 10 superior a beta 2
+OK diagnostico GLIBC conserva version requerida
+OK clasifica el error de enlazado memcpy
+OK detecta paquete real
+OK identidad estatica correcta
+OK cancelar limpia temporal y no activa
+OK prepara primera instalacion
+OK no publica una primera instalacion limitada sin consentimiento
+OK primera instalacion publicada
+OK registro de primera instalacion
+Limitacion inicial: No todas las pruebas han sido superadas. Backend preferido: C. La sustitución está bloqueada.
+C: funciona con limitaciones / ASM: no utilizable.
+Se detectó el fallo de enlazado __wrap_memcpy.
+Existe una corrección local comprobable que no modifica el paquete.
+El ensamblador FASM no superó alguna prueba.
+Registro: /tmp/pbaudit/ampliadas-final/instalador/perfil/.local/state/gestor-purebasic-2/registro.log
+Diagnostico: pbcompilerc / normal: Error de enlazado __wrap_memcpy: posible orden incorrecto de bibliotecas estáticas de PureBasic. No se han modificado sus archivos.
+pbcompilerc: solución experimental -Wl,-u,__wrap_memcpy verificada; no se aplica a los archivos oficiales.
+pbcompilerc / multihilo: Error de enlazado __wrap_memcpy: posible orden incorrecto de bibliotecas estáticas de PureBasic. No se han modificado sus archivos.
+pbcompilerc: normal=0, depurador=1, memoria=1, hilos=0, gráfica=1, rechazo=1
+pbcompiler / normal: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / depurador: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / memoria: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / multihilo: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler: normal=0, depurador=0, memoria=0, hilos=0, gráfica=1, rechazo=1
+
+OK establece una anterior para probar conservacion de predeterminada
+OK carpeta con nombre de version
+OK prepara segunda instalacion
+OK instalacion paralela
+OK registro de segunda instalacion
+OK dos carpetas diferenciadas
+OK perfiles separados
+OK conservar ambas no cambia predeterminada
+OK accesos independientes
+OK prepara sustitucion con cambios
+OK protege archivos modificados
+OK prepara sustitucion limpia
+OK limitacion bloquea sustitucion y conserva anterior
+OK ni la antigua autorizacion expresa permite borrar
+OK permite conservar nueva por separado
+OK anterior intacta y manifiesto valido
+OK la incidencia conserva la predeterminada
+OK conserva acceso anterior
+OK conserva tercera instalacion no seleccionada
+RESULTADO: 33 correctas, 0 fallidas
+
+OK prepara paquete oficial
+OK ofrece correccion sin publicar
+OK diagnostico experimental positivo
+OK sin autorizacion no altera entorno ni publica
+OK restaura entorno tras validacion original
+OK valida con correccion explicita
+DIAGNOSTICO REPARADO: pbcompilerc: normal=1, depurador=1, memoria=1, hilos=1, gráfica=1, rechazo=1
+pbcompiler / normal: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / depurador: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / memoria: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / multihilo: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler: normal=0, depurador=0, memoria=0, hilos=0, gráfica=1, rechazo=1
+
+OK C supera toda la bateria
+OK restaura entorno tras correccion
+OK adaptador privado exacto
+OK no propone aplicar dos veces
+OK lanzador prepara PATH
+OK simula adaptador modificado
+OK rechaza adaptador manipulado
+OK restaura adaptador para pruebas
+OK corregir no autoriza una limitacion residual
+OK publica y valida de nuevo en ruta definitiva
+OK persiste correccion y manifiesto original intacto
+OK no instala cambios en archivos oficiales
+OK backend C correcto tras traslado
+OK edicion gratuita y nivel C persisten correctamente
+OK perfil inicial elige backend C validado
+OK respeta preferencias ya modificadas
+OK registro no declara validacion completa si falla un backend
+OK fallo residual de ASM mantiene bloqueo
+ID=20261124-203024-7010007F
+RESULTADO: 24 correctas, 0 fallidas
+
+OK respeta eleccion explicita ASM
+OK no selecciona silenciosamente otro backend
+OK C correcto no acredita ASM sin comprobar
+OK rechaza motor desconocido
+OK banner C sin Free no acredita licencia completa
+OK banner ASM distingue edicion gratuita
+OK edicion desconocida impide borrado
+OK rechaza numero de version mal formado
+OK rechaza alias TAR y conserva Unicode
+OK extrae PAX con longitud UTF-8 y varias claves
+OK nombre y contenido Unicode correctos
+OK rechaza PAX con longitud fuera de los bytes disponibles
+OK rechaza alias de ruta en archivo real
+OK manifiesto propio canonico
+OK manifiesto identico fuera del repositorio no autoriza borrado
+OK bloquea raices anidadas y duplicadas
+OK excluye solo el registro seleccionado
+OK catalogo ilegible bloquea operacion destructiva
+OK diario con destino ajeno se conserva sin mover
+OK simula retirada interrumpida
+OK recupera retirada legitima
+OK registro anterior no hereda campos de otra version
+OK diario no puede escribir fuera de sus destinos autorizados
+OK prepara diario de dos archivos
+OK copia corrupta impide restaurar parcialmente el diario
+OK recupera los dos archivos una vez restaurada la copia
+RESULTADO: 26 correctas, 0 fallidas
+
+OK registra instalacion uno con archivos ELF reales
+OK registra instalacion dos independiente
+OK crea menu y escritorio de version uno
+OK existen ambos accesos
+OK logo oficial y permiso ejecutable
+OK crea acceso separado de otra version
+OK repara acceso borrado sin reinstalar
+OK no sobrescribe acceso ajeno aunque copie ID
+OK cambios posteriores bloquean borrado sin cambiar accesos
+OK bloqueo compartido impide desinstalar durante lanzamiento
+OK fallo tras retirada conserva SDK recuperable
+OK recupera integracion tras fallo inyectado
+OK restaura ruta exacta y seleccion anterior
+OK elimina version activa expresamente seleccionada
+OK carpetas SDK y registro eliminados
+OK limpia manifiesto y predeterminada sin alterar historial ajeno
+OK retira accesos propios y alias exactos
+OK otra instalacion y acceso ajeno intactos
+OK conserva perfil privado en copia recuperable
+OK segunda solicitud no afecta otras versiones
+OK elimina ultima version sin exigir otra activa
+OK ultima version sin restos de integracion reconocida
+OK montaje padre normal no bloquea
+OK rechaza montaje anidado con espacios
+OK rechaza montaje en la raiz
+OK tabla truncada bloquea borrado
+RESULTADO: 26 correctas, 0 fallidas
+
+OK lectura y escritura Unicode exactas
+OK texto vacio
+OK campo TAR acotado por bytes
+OK secuencia incompleta no se decodifica fuera del limite
+OK decodificacion de salida por bytes
+OK rechaza codificacion UTF8 sobrelarga
+OK rechaza sustituto UTF16 en UTF8
+OK rechaza punto Unicode fuera de rango
+OK rechaza NUL incrustado
+OK lector de registros rechaza NUL incrustado
+OK salida de proceso reconstruye UTF8 dividido entre escrituras
+OK fsync del directorio de trabajo
+OK fsync de directorio rechaza archivo regular
+OK fsync de archivo regular
+OK registro tipado correcto
+OK tipo incorrecto rechazado sin modificar destino
+OK rechaza nivel fraccionario
+OK rechaza nivel fuera de rango
+OK rechaza estado desconocido
+OK inicia diario persistente
+OK diario de tipo incorrecto no puede borrar destino
+OK diario valido vuelve al estado anterior
+OK copia aislada de SDK real
+OK registra instalacion externa con proyecto previo
+OK bloqueo de sesion impide retirar
+OK retirada recuperable sin borrado
+OK conserva proyecto existente antes del registro
+OK restaura proyecto y ubicacion exactos
+OK segunda retirada reversible
+OK purga solo tras solicitud distinta y expresa
+RESULTADO: 30 correctas, 0 fallidas
+
+OK crea estructura aislada
+OK copia ejecutables ELF del SDK de prueba
+OK registra una carpeta importada con datos previos
+OK ni una autorizacion permite purgar sin retirar primero
+OK abre diario de integracion pendiente
+OK diario pendiente impide retirar una version
+OK diario pendiente impide preparar otro paquete
+OK diario pendiente impide generar accesos
+OK recupera diario sin alterar la instalacion
+OK retira el SDK sin borrar
+OK purga de importacion exige autorizacion adicional
+OK la regla protege tambien el procedimiento de bajo nivel
+OK rechaza destino de restauracion interno al gestor
+OK rechaza raiz de retirada no correspondiente al ID
+OK restauracion respeta bloqueo de version
+OK restaura ruta y datos exactos
+OK creacion de accesos respeta bloqueo exclusivo
+OK un registro ilegible no permite borrar su perfil
+OK limpieza limitada a temporales directos del almacen
+OK estado limitado distinto de exito completo e integracion fallida
+OK fallo tras trasladar ejecutable conserva diario de su huella
+OK recupera y confirma la huella nueva
+OK recupera interrupcion antes de publicar conservando ejecutable anterior
+OK diario incoherente no altera el ejecutable
+OK diario del gestor pendiente bloquea operaciones nuevas
+RESULTADO: 25 correctas, 0 fallidas
+
+GLOBAL AMPLIADAS: 200 correctas, 0 fallidas.
+
+=== PRUEBA GRÁFICA DE COMPATIBILIDAD (ADICIONAL) ===
+OK prepara paquete oficial
+OK ofrece correccion sin publicar
+OK diagnostico experimental positivo
+OK sin autorizacion no altera entorno ni publica
+OK restaura entorno tras validacion original
+OK valida con correccion explicita
+DIAGNOSTICO REPARADO: pbcompilerc: normal=1, depurador=1, memoria=1, hilos=1, gráfica=1, rechazo=1
+pbcompiler / normal: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / depurador: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / memoria: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / multihilo: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler / grafica: Fallo del ensamblador FASM; comprueba su compatibilidad y ejecución.
+pbcompiler: normal=0, depurador=0, memoria=0, hilos=0, gráfica=0, rechazo=1
+
+OK C supera toda la bateria
+OK restaura entorno tras correccion
+OK adaptador privado exacto
+OK no propone aplicar dos veces
+OK lanzador prepara PATH
+OK simula adaptador modificado
+OK rechaza adaptador manipulado
+OK restaura adaptador para pruebas
+OK corregir no autoriza una limitacion residual
+OK publica y valida de nuevo en ruta definitiva
+OK persiste correccion y manifiesto original intacto
+OK no instala cambios en archivos oficiales
+OK backend C correcto tras traslado
+OK edicion gratuita y nivel C persisten correctamente
+OK perfil inicial elige backend C validado
+OK respeta preferencias ya modificadas
+OK registro no declara validacion completa si falla un backend
+OK fallo residual de ASM mantiene bloqueo
+ID=20261124-203046-3C042957
+RESULTADO: 24 correctas, 0 fallidas
+
+
+=== ARRANQUE GRÁFICO DE PRODUCCIÓN (ADICIONAL) ===
+
+xwininfo: Window id: 0x21f (the root window) (has no name)
+
+  Root window id: 0x21f (the root window) (has no name)
+  Parent window id: 0x0 (none)
+     4 children:
+     0x20000c (has no name): ()  1x1+-1+-1  +-1+-1
+     0x200007 " (failure in conversion from UTF8_STRING to ANSI_X3.4-1968)": ("gestor-purebasic" "Gestor-purebasic")  690x386+295+319  +295+319
+        1 child:
+        0x200008 (has no name): ()  1x1+-1+-1  +294+318
+     0x200003 "gestor-purebasic": ()  10x10+0+0  +0+0
+        1 child:
+        0x200004 (has no name): ()  1x1+-1+-1  +-1+-1
+     0x200001 "gestor-purebasic": ("gestor-purebasic" "Gestor-purebasic")  10x10+10+10  +10+10
+
+PROCESO_ACTIVO
+Terminated
